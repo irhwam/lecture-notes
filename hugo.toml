@@ -13,11 +13,19 @@ enableEmoji = true
 #disqusShortname = "dudung-github-io-blog"
 
 [params]
+<<<<<<< HEAD
 author = "Raro Kurnova"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Raro Kurnova's personal website"
 keywords = "blog,developer,personal"
 info = ["Programmer", "Web Designer"]
+=======
+author = "Imanuel H.C"
+# license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
+description = "Noel's personal website"
+keywords = "blog,developer,personal"
+info = ["Welcome!", "Social:"]
+>>>>>>> fb1b1f4af6ff98c286203d3b87aca19dc9e04ada
 
 avatarURL = "img/avatar.svg"
 
