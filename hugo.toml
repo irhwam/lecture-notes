@@ -1,4 +1,4 @@
-baseURL = 'https://dudung.rrkurnova.io/lecture-notes'
+baseURL = 'https://dudung.irhwam.io/lecture-notes'
 languageCode = 'en-us'
 title = 'lecture-notes'
 theme = ['hugo-chart', 'hugo-coder']
@@ -13,19 +13,11 @@ enableEmoji = true
 #disqusShortname = "dudung-github-io-blog"
 
 [params]
-<<<<<<< HEAD
-author = "Raro Kurnova"
-# license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
-description = "Raro Kurnova's personal website"
-keywords = "blog,developer,personal"
-info = ["Programmer", "Web Designer"]
-=======
 author = "Imanuel H.C"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Noel's personal website"
 keywords = "blog,developer,personal"
 info = ["Welcome!", "Social:"]
->>>>>>> fb1b1f4af6ff98c286203d3b87aca19dc9e04ada
 
 avatarURL = "img/avatar.svg"
 
@@ -124,97 +116,97 @@ author = "authors"
 name = "Github"
 icon = "fa fa-2x fa-github"
 weight = 0
-url = "https://github.com/rrkurnova/"
+url = "https://github.com/irhwam"
 
 #[[params.social]]
 #name = "Flickr"
 #icon = "fa fa-2x fa-inkscape"
 #weight = 1
-#url = "https://inkscape.org/~dudung/"
+#url = "https://youtu.be/dQw4w9WgXcQ?si=MnQUj_IeEWaFkaos"
 
 #[[params.social]]
 #name = "Gitlab"
 #icon = "fa fa-2x fa-gitlab"
 #weight = 2
-#url = "https://gitlab.com/6unpnp/"
+#url = "https://youtu.be/dQw4w9WgXcQ?si=MnQUj_IeEWaFkaos"
 
 #[[params.social]]
 #name = "Twitter"
 #icon = "fa fa-2x fa-twitter"
 #weight = 3
-#url = "https://twitter.com/6unpnp/"
+#url = "https://youtu.be/dQw4w9WgXcQ?si=MnQUj_IeEWaFkaos"
 
 #[[params.social]]
 #name = "LinkedIn"
 #icon = "fa fa-2x fa-linkedin"
 #weight = 4
-#url = "https://www.linkedin.com/in/6unpnp/"
+#url = "https://youtu.be/dQw4w9WgXcQ?si=MnQUj_IeEWaFkaos"
 
 [[params.social]]
 name = "Medium"
 icon = "fa fa-2x fa-medium"
 weight = 5
-url = "https://medium.com/@rrkurnova"
+url = "https://medium.com/@prajawigoona"
 
 #[[params.social]]
 #name = "Instagram"
 #icon = "fa fa-2x fa-instagram"
 #weight = 6
-#url = "https://www.instagram.com/6unpnp"
+#url = "https://youtu.be/dQw4w9WgXcQ?si=MnQUj_IeEWaFkaos"
 
 #[[params.social]]
 #name = "Tumblr"
 #icon = "fa fa-2x fa-tumblr"
 #weight = 7
-#url = "https://6unpnp.tumblr.com/"
+#url = "https://medium.com/@prajawigoona"
 
 #[[params.social]]
 #name = "Facebook"
 #icon = "fa fa-2x fa-facebook"
 #weight = 8
-#url = "https://www.facebook.com/6unpnp"
+#url = "https://youtu.be/dQw4w9WgXcQ?si=MnQUj_IeEWaFkaos"
 
 #[[params.social]]
 #name = "ResearchGate"
 #icon = "fa fa-2x fa-researchgate"
 #weight = 9
-#url = "https://www.researchgate.net/profile/Sparisoma-Viridi"
+#url = "https://youtu.be/dQw4w9WgXcQ?si=MnQUj_IeEWaFkaos"
 
 #[[params.social]]
 #name = "WordPress"
 #icon = "fa fa-2x fa-wordpress"
 #weight = 10
-#url = "https://viridi.wordpress.com/"
+#url = "https://youtu.be/dQw4w9WgXcQ?si=MnQUj_IeEWaFkaos"
 
 #[[params.social]]
 #name = "ORCID"
 #icon = "fa fa-2x fa-orcid"
 #weight = 11
-#url = "https://orcid.org/0000-0002-7588-4539"
+#url = "https://youtu.be/dQw4w9WgXcQ?si=MnQUj_IeEWaFkaos"
 
 #[[params.social]]
 #name = "YouTube"
 #icon = "fa fa-2x fa-youtube"
 #weight = 12
-#url = "https://www.youtube.com/channel/UCE6LwyjTcMSvce57UvyIbfA"
+#url = "https://youtu.be/dQw4w9WgXcQ?si=MnQUj_IeEWaFkaos"
 
 #[[params.social]]
 #name = "Flickr"
 #icon = "fa fa-2x fa-flickr"
 #weight = 13
-#url = "https://www.flickr.com/photos/195637519@N06"
+#url = "https://youtu.be/dQw4w9WgXcQ?si=MnQUj_IeEWaFkaos"
 
 #[[params.social]]
 #name = "Mastodon"
 #icon = "fa fa-2x fa-mastodon"
 #weight = 14
-#url = "https://mastodon.world/@6unpnp"
+#url = "https://youtu.be/dQw4w9WgXcQ?si=MnQUj_IeEWaFkaos"
 
 #[[params.social]]
 #name = "Flickr"
 #icon = "fa fa-2x fa-discord"
 #weight = 15
-#url = "https://discordhub.com/profile/1044507917623246919"
+#url = "https://youtu.be/dQw4w9WgXcQ?si=MnQUj_IeEWaFkaos"
 
 [[params.social]]
 name = "RSS"
