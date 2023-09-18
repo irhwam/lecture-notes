@@ -13,11 +13,11 @@ enableEmoji = true
 #disqusShortname = "dudung-github-io-blog"
 
 [params]
-author = "Sparisoma Viridi"
+author = "Imanuel H.C"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
-description = "Sparisoma Viridi's personal website"
+description = "Noel's personal website"
 keywords = "blog,developer,personal"
-info = ["Physicist", "Programmer"]
+info = ["Welcome!", "Social:"]
 
 avatarURL = "img/avatar.svg"
 
